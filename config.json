@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsponnect",
+        "uuid": 14149496,
+        "checksum": "l7lvvq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
